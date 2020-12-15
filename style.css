@@ -1,0 +1,55 @@
+#map iframe {
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
+
+input {
+    background: grey
+}
+
+.announcement {
+    background-color: #337ab7;
+    width: 100%;
+    height: 30px;
+}
+
+#marqueeStyle {
+    width: 100%;
+    direction: right;
+    height: 100px;
+    color: beige;
+    font-size: 120%;
+}
+
+#AUDITORIUM {
+    width: 215;
+    height: 200;
+}
+
+#aud. {
+    width: 215;
+    height: 285;
+    border-width: 4;
+    background-color: aquamarine;
+    border-color: black;
+}
+
+kbd {
+    background-color: skyblue;
+    font-family: monospace;
+    text-decoration-style: solid;
+}
